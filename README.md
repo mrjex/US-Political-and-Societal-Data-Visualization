@@ -1,54 +1,85 @@
-# US Political & Societal Data Visualization
+# 🗳️ US Political & Societal Data Visualization
 
-During my exchange studies in Italy, from 2024 November to 2025 January, I attended this course. It covered Python Programming, ranging from OOP, vectorized operations in Numpy, dataframe manipulation in Pandas and data visualization in Matplotlib, Plotly and Seaborn. At the end of the course, me and two other students were assigned a bigger project. The task was to visualize different aspects that relates to a main theme, to highlight important patterns and meaningful insights about the society. In particular, we choosed *US elections between 2000-2020* as the field of research. Furthermore, we decomposed this broad notion into the different subtopics of *Economic*, *Political* and *Social* aspects about the population and their voting patterns favoring either Republicans or Democrats.
+> Analyzing American electoral patterns through economic, political, and social lenses
 
+[![Python](https://img.shields.io/badge/Python-3.8+-blue)](https://www.python.org/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)](https://jupyter.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-Data_Analysis-green)](https://pandas.pydata.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-red)](https://matplotlib.org/)
+[![Plotly](https://img.shields.io/badge/Plotly-Interactive_Charts-lightblue)](https://plotly.com/)
 
-![members](readme-material/1-members.PNG)
+## 📑 Table of Contents
+- [Overview](#-overview)
+- [Project Highlights](#-project-highlights)
+- [Developed Visualizations](#-developed-visualizations)
+- [Key Insights](#-key-insights)
+- [Related Projects](#-related-projects)
 
+## 🎯 Overview
 
-The developed artifacts can be found in `/submission`, and it encompasses a *.pdf* file for the Canva presentation, where deduductions from data visualizations are made. In addition the corresponding `.ipynb` file with the code for each data representation and along with each and every dataset is included in this directory.
+During my exchange studies in Venice, Italy (November 2024 - January 2025), I participated in an advanced data science course focusing on Python programming and data visualization techniques. This repository contains the culmination of that work: a comprehensive analysis of US electoral patterns from 2000-2020.
 
+Our team decomposed American voting behavior into three interconnected dimensions:
+- **Economic factors** influencing voter preferences
+- **Political trends** across presidential elections
+- **Social demographics** and their correlation with party affiliation
 
+![Team Members](readme-material/1-members.PNG)
+*Our international team collaborated across different backgrounds and perspectives*
 
-## Developed Artifact
+## 📊 Project Highlights
 
-Note that the pictures below only constitute a fraction of the developed artifact, which can be viewed in its entirety in **submission/Python Boys Presentation.pdf**.
+- **Data Processing**: Leveraged Pandas for cleaning and transforming multiple datasets
+- **Advanced Visualization**: Created insightful charts using Matplotlib, Plotly, and Seaborn
+- **Statistical Analysis**: Applied numerical techniques to identify significant patterns
+- **Multidimensional Approach**: Examined voting behavior through economic, political, and social lenses
 
+The complete project presentation and code are available in the `/submission` directory:
+- `Python Boys Presentation.pdf`: Canva presentation with data insights
+- `*.ipynb` files: Jupyter notebooks containing all analysis code
+- Datasets used for each visualization
 
-![inflation](readme-material/2-inflation.PNG)
+## 📈 Developed Visualizations
 
-![annual-growth](readme-material/3-annual-growth.PNG)
+Our analysis produced several revealing visualizations that highlight the complex relationships between various factors and voting patterns:
 
-![unemployment](readme-material/4-unemployment.PNG)
+### Economic Indicators
 
-![political-results](readme-material/5-political-results.PNG)
+![Inflation Analysis](readme-material/2-inflation.PNG)
+*Inflation trends and their correlation with election outcomes*
 
-![gender-trends](readme-material/6-gender-trends.PNG)
+![Economic Growth](readme-material/3-annual-growth.PNG)
+*Annual GDP growth patterns during election cycles*
 
-![urban-rural](readme-material/7-urban-rural.PNG)
+![Unemployment Impact](readme-material/4-unemployment.PNG)
+*Unemployment rates and their electoral implications*
 
+### Political Landscape
 
+![Election Results](readme-material/5-political-results.PNG)
+*Historical voting patterns across presidential elections*
 
-## My Related Experiences
+### Demographic Influences
 
-*Although the knowledge domains of `Jupyiter Notebooks` and `Python Programming` largely intersect, they are divided to showcase my Python expertise in different environments:*
+![Gender Voting Trends](readme-material/6-gender-trends.PNG)
+*Gender-based voting preferences over two decades*
 
+![Urban-Rural Divide](readme-material/7-urban-rural.PNG)
+*Geographic distribution of political affiliations*
 
-### Notebooks
+## 🔗 Related Projects
 
-- [Neural Network Image Classification](https://github.com/mrjex/Neural-Network-Image-Classification): *Kaggle notebook on the cloud that uses a public dataset*
+### 📓 Jupyter Notebooks
+- [Neural Network Image Classification](https://github.com/mrjex/Neural-Network-Image-Classification): *Kaggle notebook using public datasets*
+- [Machine Learning Clustering System](https://github.com/mrjex/Machine-Learning-Clustering-System): *Google Colab implementation*
 
-- [Machine Learning Clustering System](https://github.com/mrjex/Machine-Learning-Clustering-System): *Google Colab notebook*
+### 🐍 Python Projects
+- [AlgoExpert - My Solutions](https://github.com/mrjex/AlgoExpert): *Algorithm implementations*
+- [AWS Sagemaker Prediction](https://github.com/mrjex/AWS-Sagemaker-System): *Cloud-based machine learning*
+- [Realtime Change Data Capture Streaming](https://github.com/mrjex/Realtime-Data-Capture-Streaming): *Streaming data pipeline*
+- [Global City Streaming](https://github.com/mrjex/Global-City-Streaming): *Multi-dimensional data visualization*
+- [AWS BigData Project](https://github.com/mrjex/AWS-BigData-System): *Large-scale data management*
 
+---
 
-### Python Programming
-
-- [AlgoExpert - My Solutions](https://github.com/mrjex/AlgoExpert)
-
-- [AWS Sagemaker Prediction](https://github.com/mrjex/AWS-Sagemaker-System): *Jupyter Notebook instances in AWS Sagemaker*
-
-- [Realtime Change Data Capture Streaming](https://github.com/mrjex/Realtime-Data-Capture-Streaming): *Manage real-time data in streaming pipeline and visualize in localhost*
-
-- [Global City Streaming](https://github.com/mrjex/Global-City-Streaming): *Manage pipeline data and visualize in a vas multitude of distinct plots*
-
-- [AWS BigData Project](https://github.com/mrjex/AWS-BigData-System): *Manage and distribute large volumes of data to running instances*
+*Developed during exchange studies at Ca' Foscari University of Venice, Italy*

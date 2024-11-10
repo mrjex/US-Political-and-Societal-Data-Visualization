@@ -24,8 +24,6 @@ Our team decomposed American voting behavior into three interconnected dimension
 - **Political trends** across presidential elections
 - **Social demographics** and their correlation with party affiliation
 
-![Team Members](readme-material/1-members.PNG)
-*Our international team collaborated across different backgrounds and perspectives*
 
 ## 📊 Project Highlights
 

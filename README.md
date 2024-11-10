@@ -1,6 +1,7 @@
-# 🗳️ US Political & Societal Data Visualization
+# US Political & Societal Data Visualization
 
 > Analyzing American electoral patterns through economic, political, and social lenses
+> Developed by Joel Mattsson, Dumitri Vlad and Alireza Vahedian
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue)](https://www.python.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)](https://jupyter.org/)
@@ -8,14 +9,14 @@
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-red)](https://matplotlib.org/)
 [![Plotly](https://img.shields.io/badge/Plotly-Interactive_Charts-lightblue)](https://plotly.com/)
 
-## 📑 Table of Contents
+## Table of Contents
 - [Overview](#-overview)
 - [Project Highlights](#-project-highlights)
 - [Developed Visualizations](#-developed-visualizations)
 - [Key Insights](#-key-insights)
 - [Related Projects](#-related-projects)
 
-## 🎯 Overview
+## Overview
 
 During my exchange studies in Venice, Italy (November 2024 - January 2025), I participated in an advanced data science course focusing on Python programming and data visualization techniques. This repository contains the culmination of that work: a comprehensive analysis of US electoral patterns from 2000-2020.
 
@@ -25,7 +26,7 @@ Our team decomposed American voting behavior into three interconnected dimension
 - **Social demographics** and their correlation with party affiliation
 
 
-## 📊 Project Highlights
+## Project Highlights
 
 - **Data Processing**: Leveraged Pandas for cleaning and transforming multiple datasets
 - **Advanced Visualization**: Created insightful charts using Matplotlib, Plotly, and Seaborn
@@ -37,7 +38,7 @@ The complete project presentation and code are available in the `/submission` di
 - `*.ipynb` files: Jupyter notebooks containing all analysis code
 - Datasets used for each visualization
 
-## 📈 Developed Visualizations
+## Developed Visualizations
 
 Our analysis produced several revealing visualizations that highlight the complex relationships between various factors and voting patterns:
 
@@ -65,19 +66,15 @@ Our analysis produced several revealing visualizations that highlight the comple
 ![Urban-Rural Divide](readme-material/7-urban-rural.PNG)
 *Geographic distribution of political affiliations*
 
-## 🔗 Related Projects
+## My Related Projects
 
-### 📓 Jupyter Notebooks
+### Jupyter Notebooks
 - [Neural Network Image Classification](https://github.com/mrjex/Neural-Network-Image-Classification): *Kaggle notebook using public datasets*
 - [Machine Learning Clustering System](https://github.com/mrjex/Machine-Learning-Clustering-System): *Google Colab implementation*
 
-### 🐍 Python Projects
+### Python Projects
 - [AlgoExpert - My Solutions](https://github.com/mrjex/AlgoExpert): *Algorithm implementations*
 - [AWS Sagemaker Prediction](https://github.com/mrjex/AWS-Sagemaker-System): *Cloud-based machine learning*
 - [Realtime Change Data Capture Streaming](https://github.com/mrjex/Realtime-Data-Capture-Streaming): *Streaming data pipeline*
 - [Global City Streaming](https://github.com/mrjex/Global-City-Streaming): *Multi-dimensional data visualization*
 - [AWS BigData Project](https://github.com/mrjex/AWS-BigData-System): *Large-scale data management*
-
----
-
-*Developed during exchange studies at Ca' Foscari University of Venice, Italy*

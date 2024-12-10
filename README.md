@@ -1,6 +1,7 @@
 # US Political & Societal Data Visualization
 
 > Analyzing American electoral patterns through economic, political, and social lenses
+> 
 > Developed by Joel Mattsson, Dumitri Vlad and Alireza Vahedian
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue)](https://www.python.org/)

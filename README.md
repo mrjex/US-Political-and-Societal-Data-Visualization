@@ -14,7 +14,6 @@
 - [US Political \& Societal Data Visualization](#us-political--societal-data-visualization)
   - [Table of Contents](#table-of-contents)
   - [Overview](#overview)
-  - [Project Highlights](#project-highlights)
   - [Developed Visualizations](#developed-visualizations)
     - [Economic Indicators](#economic-indicators)
     - [Political Landscape](#political-landscape)
@@ -22,25 +21,16 @@
 
 ## Overview
 
-During my exchange studies in Venice, Italy (November 2024 - January 2025), I participated in an advanced data science course focusing on Python programming and data visualization techniques. This repository contains the culmination of that work: a comprehensive analysis of US electoral patterns from 2000-2020.
+The complete project presentation and code are available in the two following files
+- `Python Boys Presentation.pdf`: Canva presentation with data insights
+- `*.ipynb` files: Jupyter notebooks containing all code
 
-Our team decomposed American voting behavior into three interconnected dimensions:
+
+Our team decomposed American voting behavior into three aspects:
 - **Economic factors** influencing voter preferences
 - **Political trends** across presidential elections
 - **Social demographics** and their correlation with party affiliation
 
-
-## Project Highlights
-
-- **Data Processing**: Leveraged Pandas for cleaning and transforming multiple datasets
-- **Advanced Visualization**: Created insightful charts using Matplotlib, Plotly, and Seaborn
-- **Statistical Analysis**: Applied numerical techniques to identify significant patterns
-- **Multidimensional Approach**: Examined voting behavior through economic, political, and social lenses
-
-The complete project presentation and code are available in the `/submission` directory:
-- `Python Boys Presentation.pdf`: Canva presentation with data insights
-- `*.ipynb` files: Jupyter notebooks containing all analysis code
-- Datasets used for each visualization
 
 ## Developed Visualizations
 

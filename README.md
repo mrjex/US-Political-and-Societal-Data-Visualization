@@ -1,8 +1,8 @@
 # US Political & Societal Data Visualization
 
-> Analyzing American electoral patterns through economic, political, and social lenses
-> 
-> Developed by Joel Mattsson, Dumitri Vlad and Alireza Vahedian
+> Visualizing economic, political and social patterns of the US populations across the elections between 2000-2024
+> Developed by Joel Mattsson, Dumitri Vlad and Alireza Vahedian @Ca' Foscari
+
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue)](https://www.python.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)](https://jupyter.org/)
@@ -11,11 +11,14 @@
 [![Plotly](https://img.shields.io/badge/Plotly-Interactive_Charts-lightblue)](https://plotly.com/)
 
 ## Table of Contents
-- [Overview](#-overview)
-- [Project Highlights](#-project-highlights)
-- [Developed Visualizations](#-developed-visualizations)
-- [Key Insights](#-key-insights)
-- [Related Projects](#-related-projects)
+- [US Political \& Societal Data Visualization](#us-political--societal-data-visualization)
+  - [Table of Contents](#table-of-contents)
+  - [Overview](#overview)
+  - [Project Highlights](#project-highlights)
+  - [Developed Visualizations](#developed-visualizations)
+    - [Economic Indicators](#economic-indicators)
+    - [Political Landscape](#political-landscape)
+    - [Demographic Influences](#demographic-influences)
 
 ## Overview
 
@@ -66,16 +69,3 @@ Our analysis produced several revealing visualizations that highlight the comple
 
 ![Urban-Rural Divide](readme-material/7-urban-rural.PNG)
 *Geographic distribution of political affiliations*
-
-## My Related Projects
-
-### Jupyter Notebooks
-- [Neural Network Image Classification](https://github.com/mrjex/Neural-Network-Image-Classification): *Kaggle notebook using public datasets*
-- [Machine Learning Clustering System](https://github.com/mrjex/Machine-Learning-Clustering-System): *Google Colab implementation*
-
-### Python Projects
-- [AlgoExpert - My Solutions](https://github.com/mrjex/AlgoExpert): *Algorithm implementations*
-- [AWS Sagemaker Prediction](https://github.com/mrjex/AWS-Sagemaker-System): *Cloud-based machine learning*
-- [Realtime Change Data Capture Streaming](https://github.com/mrjex/Realtime-Data-Capture-Streaming): *Streaming data pipeline*
-- [Global City Streaming](https://github.com/mrjex/Global-City-Streaming): *Multi-dimensional data visualization*
-- [AWS BigData Project](https://github.com/mrjex/AWS-BigData-System): *Large-scale data management*

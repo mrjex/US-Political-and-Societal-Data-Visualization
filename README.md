@@ -1,6 +1,7 @@
 # US Political & Societal Data Visualization
 
 > Visualizing patterns of the US population across the elections between 2000-2024
+>
 > Developed by Joel Mattsson, Dumitri Vlad and Alireza Vahedian for Ca' Foscari
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue)](https://www.python.org/)

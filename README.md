@@ -1,8 +1,7 @@
 # US Political & Societal Data Visualization
 
-> Visualizing economic, political and social patterns of the US populations across the elections between 2000-2024
-> Developed by Joel Mattsson, Dumitri Vlad and Alireza Vahedian @Ca' Foscari
-
+> Visualizing patterns of the US population across the elections between 2000-2024
+> Developed by Joel Mattsson, Dumitri Vlad and Alireza Vahedian for Ca' Foscari
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue)](https://www.python.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)](https://jupyter.org/)
@@ -14,7 +13,6 @@
 - [US Political \& Societal Data Visualization](#us-political--societal-data-visualization)
   - [Table of Contents](#table-of-contents)
   - [Overview](#overview)
-  - [Developed Visualizations](#developed-visualizations)
     - [Economic Indicators](#economic-indicators)
     - [Political Landscape](#political-landscape)
     - [Demographic Influences](#demographic-influences)
@@ -23,16 +21,12 @@
 
 The complete project presentation and code are available in the two following files
 - `Python Boys Presentation.pdf`: Canva presentation with data insights
-- `*.ipynb` files: Jupyter notebooks containing all code
-
+- `Code.ipynb` files: Jupyter notebooks containing all code
 
 Our team decomposed American voting behavior into three aspects:
 - **Economic factors** influencing voter preferences
 - **Political trends** across presidential elections
 - **Social demographics** and their correlation with party affiliation
-
-
-## Developed Visualizations
 
 Our analysis produced several revealing visualizations that highlight the complex relationships between various factors and voting patterns:
 

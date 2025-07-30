@@ -4,11 +4,9 @@
 >
 > Developed by Joel Mattsson, Dumitri Vlad and Alireza Vahedian for Ca' Foscari
 
-[![Python](https://img.shields.io/badge/Python-3.8+-blue)](https://www.python.org/)
-[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)](https://jupyter.org/)
-[![Pandas](https://img.shields.io/badge/Pandas-Data_Analysis-green)](https://pandas.pydata.org/)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-red)](https://matplotlib.org/)
-[![Plotly](https://img.shields.io/badge/Plotly-Interactive_Charts-lightblue)](https://plotly.com/)
+
+![Teaser](readme-material/teaser.png)
+
 
 ## Table of Contents
 - [US Political \& Societal Data Visualization](#us-political--societal-data-visualization)
